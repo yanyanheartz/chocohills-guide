@@ -1,0 +1,23 @@
+teleports
+/wild
+/pvp
+/mine
+/back
+/pwarp
+/plot visit [name]
+/tpa [name]
+
+Slime Fun
+/sf guide
+
+Home
+/sethome
+/delhome
+/home
+
+Bed
+/bed
+
+Pwarp
+/pwarp set [name] (costs 5k)
+/plot visit [name]
