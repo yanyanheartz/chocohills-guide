@@ -1,0 +1,195 @@
+Enhanced Crafting Table (ect)
+Used to craft Slimefun recipes.
+How to use: 1.Arrange the items
+in the Dispenser the same way
+as shown from the Slimefun Guide.
+2.Then right-click the Crafting
+Table to craft.
+
+Grind Stone(gs)
+Grind Stone
+Used for crushing items, materials
+ and mob drops. All items that
+ can be used on the crusher
+ can be seen from the Slimefun Guide.
+ How to Use: 1.Put the item
+ in the Dispenser and right-click
+ the Wooden Fence to craft.
+
+ Armor Forge (af)
+ Used to craft Slimefun Armors.
+ How to use: 1.Arrange the item
+ in the Dispenser the same way
+ as shown from the Slimefun Guide.
+ 2.Then right-click the Anvil 
+ to craft.
+
+Automated Panning Machine (apm)
+Sifts Gravel and Soul Sand to obtain
+important materials like Sifted Ore. 
+How to use: While holding a Gravel
+or Soul Sand; right-click on the 
+Wooden Trapdoor to start panning.
+Tip: You can attach an Output Chest
+on the Cauldron part of the machine
+to automatically collect the products.
+
+Compressor (cmpsr)
+Used for compacting materials.
+How to use: 1.Put the item inside
+the Dispenser. 2.Right-click
+on the Nether Brick Fence to
+compress.
+
+Makeshift Smeltery (msmlt)
+Smelts dust to ingots.
+How to use: 1.Put the ingredients in
+the Dispenser. 2.Make sure there's an
+active fire below the Dispenser part
+of the machine. 3. Right-click on 
+the Wooden Fence to smelt.
+Tip:  Use a block that can make a fire
+burn forever on top of it like 
+Soul Soil and Netherrack.The Fire below 
+the Dispenser will go out while using 
+the Makeshift Smeltery. Attach an 
+Ignition Chamber to the Dispenser
+part of the machine, to make the fire last,
+as long as the Ignition Chamber is loaded
+with Flint and Steel.
+
+Smeltery (smlt)
+Smelts materials to obtain ingots, Alloys 
+and other materials. Check
+the Slimefun Guide for all the
+materials obtainable, with Smeltery.
+How to use: 1.Put the ingredients in
+the Dispenser. 2.Make sure there's an
+active fire below the Dispenser part
+of the machine. 3.Right-click on 
+the Nether Brick Fence to smelt.
+Note: There are products from the
+Smeltery that requires a combination
+of inputs. Alloys are a great example.
+There's no need to copy the shape from
+the recipe. Just make sure the required
+materials from the recipe are present
+in the Dispenser.
+Tip: Use a block that can make a fire
+burn forever on top of it like 
+Soul Soil and Netherrack. The fire below
+the Dispenser will go out while using
+the Smeltery. Attach anIgnition Chamber
+to the Dispenser part of the machine, 
+to make the fire last,as long as the 
+Ignition Chamber is loaded 
+with Flint and Steels.
+
+Ore Crusher (orc)
+Crushes ore and other resources.
+Check the Slimefun Guide to
+see all the crushable resources.
+How to use: 1. Put the resource in
+the Dispenser part of the machines.
+2. Right-click on the Nether Brick Fence
+
+Ignition Chamber (ignich)
+Makes the fire under the Dispenser part
+of the Makeshift Smeltery and Smeltery
+last as long as it's loaded with 
+"Flint and Steel".
+Tip: You can attach a Hopper to it
+for even more Flint and Steels.
+
+Ore Washer (orwsh)
+Washes Sifted Ore and Sand to
+Obtain Dusts, Salt and Stone Chunk.
+How to use: 1.Put the Sifted Ore
+or Sand inside the Dispenser part
+of the machines. 2.Right-click on
+the Nether Brick Fence.
+
+Output Chest (oc)
+Attach this on the Dispenser part
+of a Multiblock machine to collect
+the product.
+Note: This is really helpful 
+specially for the Enhanced Crafting Table.
+It will save you a lot of time and effort.
+it is recommended to make an Output Chest
+for every Multiblock machine you have.
+
+Juicer (juice)
+Make juice from different crops
+to replenish your Hunger Bar. 
+Check the Slimefun Guide for all
+the crops that you can make juice from.
+How to use: 1.Put a crop inside the 
+Dispenser part of the machine.
+2.Right-click on the Nether Brick
+Dispenser.
+Note: You don't need an "Empty Bottle".
+
+Industrial Miner (im)
+Allows you to mine ores in
+a 7x7 area without having to go
+underground. Mines ore like 
+the Silktouch enchantment. You'll
+need to fuel it. Check the 
+Slimefun Guide for the list
+of the fuels and how long it will last.
+How to use: 1.Insert fuel(s) in the Chest.
+2.Right-click on the Blast Furnace begin.
+
+Advanced Industrial Miner(aim)
+Allows you to mine ores in
+a 11x11 area without having to go
+underground. Mines ore like 
+the Silktouch enchantment. You'll
+need to fuel it. Check the 
+Slimefun Guide for the list
+of the fuels and how long it will last.
+How to use: 1.Insert fuel(s) in the Chest.
+2.Right-click on the Blast Furnace begin.
+
+Table Saw(ts)
+Allows you to get 8 Planks
+from one Log, and 4 Sticks
+from 1 Plank.
+How to use: 1. Hold any type of
+Log or Plank. 2.Right-click on
+the Stonecutter.
+Tip: You can attach an Output Chest
+on the Stonecutter to collect the
+products. To be able to do this
+place a temporary block beside 
+the Iron Block and place the
+Output Chest. 
+
+Crucible(cruci)
+Converts materials into lava and water
+Check the Slimefun Guide for valid 
+material inputs.
+How to use: 1.Hold a valid 
+input and the correct amount. 2.Right-click it
+on the machine. 3.You can collect 
+the liquid with a Bucket.
+
+Compooster (compo)
+Converts recyclable materials into
+other materials. Check the Slimefun
+Guide for all the recyclable 
+materials and their respective
+output. 
+How to use: 1.Hold a valid 
+input and the correct amount. 
+2.Right-click it on the machine.
+Tip: You can attach an Output Chest
+on the Compooster to collect the
+products
+
+Enhanced Furnace (ef)
+Works like a regular Furnace, 
+but you can upgrade it for faster
+processing speed, fuel efficiency,
+and an output multiplier.
