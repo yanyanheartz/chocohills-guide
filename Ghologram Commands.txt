@@ -1,0 +1,19 @@
+/gholo help
+/gholo create [i]
+/gholo info [i]
+/gholo remove [i]
+/gholo tp [i]
+/gholo tphere [i]
+/gholo addrow [i] [text]
+/gholo removerow [i] [txt]
+/gholo setrow [i] [row] [txt]
+/gholo insertrow [i] [row] [txt]
+/gholo copy [i] [i]
+/gholo range [i] [range]
+/gholo align [i] x/y/z/xz [i]
+/gholo condition [i] [<condition>]
+
+//Holo
+/gholo image [i] avatar/helm/file/url [val] [<size>]
+
+/gholo import <Plugin>
