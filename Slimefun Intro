@@ -7,34 +7,37 @@ It has Magic and Technology, whatever suits your interests. (revise)
 Getting Started
 You’ll need a book named “Slimefun Guide” in your inventory. In case you don’t have one, use the command ‘/sf guide’ to obtain one. 
 
-Now that you have the book. Equip it in your hand, and right-click; or tap if you are in MCPE. 
-
-*Add if locked recipes here*
+Now that you have the book. Equip it in your hand, and right-click; or tap if you are on MCPE. 
 
 Upon opening the book; you’ll see a lot of items that you may not understand for now. Don’t get intimidated, you will learn about them later. 
 
+Locked Items
+If it’s your first time on the server; you’ll see that, most of the Slimefun items in your book are locked. Locked items have a barrier block icon. Even if someone gave you a Slimefun-item that is locked from your Slimefun Guide book; it will give a message that says: “You don’t have the knowledge to use it”, making it useless for you. In order for you to use it. You have to unlock the item from your Slimefun Guide book.
+How to Unlock Locked Items
+You can unlock the items one by one, by using your levels. Or you can ask the community to give you a “Tome of Knowledge”. Tome of Knowledge is a Slimefun item that allows players to share all of their unlocked items to other players. After obtaining one, you’ll need at least 30 levels. You’ll use the levels to unlock the Tome of Knowledge for you to be able to use the item. After unlocking the “Tome of Knowledge”; equip it on your hand and right-click anywhere; or tap on MCPE.
+
+How to Find the Tome of Knowledge from the Slimefun Guide
+Click on the “Name Tag” icon on the right-top of the menu. After clicking it; the GUI will close. Then you will see a message from the chat box that says: “What are you looking for?”. Send a message that says “Tome of Knowledge”. Then a GUI will pop-up and then click on the icon that’s named “Tome of Knowledge”.
+
 Making Your First Item
-For now, select the one that looks like a ‘Crafting Table’ that says “Basic Machines”.
+Click on the “Name Tag” icon again and search “Enchanted Crafting Table”. Then click the “Enchanted Table” icon that says: “Enhanced Crafting Table”. It will direct you to the recipe, and the instruction to craft the “Enchanted Crafting Table”.
 
-You will be directed to a menu of items that you still don’t understand. Don’t mind them, and just follow my instructions.
+You will notice three (3) sections among the items. The one on the left will give you the information on how to make the item. The one(s) in the middle will tell you the material(s) that you’ll need to make the item. And, the one on the right is the result.
 
-Select the one that looks like a ‘Crafting Table’ that says “Enhanced Crafting Table”.
-
-You will notice three (3) sections among the items. The one on the left will give you an information on how to make the item. The one(s) in the middle will tell you the material(s) that you’ll need to make the item. And, the one on the right is the result.
 
 Here’s the recap:
 Left Section > Middle Section > Right Section
 This is how you make it > These are the materials needed > Here’s the result
 
-Now, lets use what we’ve learned in order to achieve our target item, the “Enhanced Crafting Table”. 
+Now, let’s use what we’ve learned in order to achieve our target item, the “Enhanced Crafting Table”. 
 
-It says in the Left Section that it’s a Multiblock; it says in the description that, in order to make it, we have to build the structure as shown, and it’s not crafted. 
+It says on the Left Section that it’s a Multiblock; it says in the description that, in order to make Multiblock items, we have to build the structure as shown, and it’s not crafted. 
 
-Next, the Middle Section tells us that we’ll need a ‘Crafting Table’ and a ‘Dispenser’ for our structure. After gathering the required materials; all that’s left is to build the structure. It is shown in the Middle 
+Next, the Middle Section tells us that we’ll need a ‘Crafting Table’ and a ‘Dispenser’ for our structure. 
 
-Section that the ‘Crafting Table’ icon is on top of the ‘Dispenser’ icon. This means that you should place a ‘Dispenser’, then on top of it, place a ‘Crafting Table’.
+It is shown in the Middle Section that the ‘Crafting Table’ is on top of the ‘Dispenser’. This means that you should place a ‘Dispenser’, then on top of it, place a ‘Crafting Table’.
 
-Then, right-click on the ‘Crafting Table’ to ensure that it works. You should see a message: “You have successfully constructed this Multiblock…”. Congratulations! You have created your first Slimefun item. Great Job!
+Then, right-click on the ‘Crafting Table’ of your Multiblock structure to ensure that it works. You should see a message that says: “You have successfully constructed this Multiblock…”. Congratulations! You have created your first Slimefun item. Great Job!
 
 --Optional—(Not done yet)
 Let’s try another recipe; this time it’s a non-multiblock one. Open the Slimefun Guide book. If you’re ever stuck in the “Enchanted Crafting Table” recipe. Select the glowing book on the top-left corner to navigate to the “Basic Machines” items menu. 
@@ -49,6 +52,18 @@ The Middle Section shows a shaped-recipe that requires a ‘Hopper’, ‘Chest�
 --Then dito yung command. Kasi walang Lead ingot yung newbie—
 
 Using the Slimefun Guide Book
-Learning to use the Slimefun Guide book is an important skill in Slimefun item making. It will make your Slimefun item crafting, more efficient. To get started, you must have a copy of the Slimefun Guide book in your inventory. In case you don’t have one; you can use the ‘/sf guide’ command to obtain one. 
+Learning to use the Slimefun Guide book is an important skill in Slimefun-item making. It will make your work, easier. To get started, you must have a copy of the Slimefun Guide book in your inventory. In case you don’t have one; you can use the ‘/sf guide’ command to obtain one. 
 
-Now that you have your Slimefun Guide book. Equip it on your hand, and right-click anywhere; or tap if you’re on MCPE. It should open a menu on your screen; that’s the Slimefun Guide book main menu. You are confused right now on what you are seeing on the menu. These are the things that you need you know about the Slimefun Guide main menu. The items on the top and on the bottom of the menu, are for navigating. Th
+Equip it on your hand, and right-click anywhere; or tap if you’re on MCPE. It should open the menu GUI on your screen; that’s the Slimefun Guide book, main menu. 
+
+Slimefun Guide Main Menu
+These are the things that you need you know in order to understand the contents of the GUI. The items on the very top, and very bottom of the menu, are for navigating. The ones on the middle, are the categories.
+
+The Name Tag at the top, is for searching the items that you are looking for. To use it, select the ‘Name Tag’ icon; then the Slimefun Guide book will close. Then you can see a message on the chat-box that says: “What would you like to search for?”. You can now use the chat box to search the name of the item, that you are looking for. 
+
+The Redstone Comparator Icon is for nerdy stuff connected to Slimefun.
+
+The two (2) Black Panes at the very bottom are for turning the pages of the book. 
+
+You’re All Set
+Now that you know the basics. All you have to do is to master it.
